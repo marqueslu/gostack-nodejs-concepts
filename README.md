@@ -11,29 +11,37 @@ You can find the challenge description here: [Challenge](https://github.com/Rock
 
 You can clone this project running the following command in your terminal:
 
-`git clone git@github.com:marqueslu/gostack-nodejs-concepts.git`
+```
+git clone git@github.com:marqueslu/gostack-nodejs-concepts.git
+```
 
 ### Configuring the project
 
 You can run the command bellow to install all the project dependencies:
 
-`yarn`
+```
+yarn
+```
 
 ### Running the project
 
 To run the project you just need to execute the following command in your terminal:
 
-`yarn dev`
+```
+yarn dev
+```
 
 ### Testing the project
 
 To run all the project unit tests, you need to run the following command:
 
-`yarn test`
+```
+yarn test
+```
 
 ## :memo: License
 
-This project is licensed under the MIT [LICENSE](LICENSE.md)
+This project is licensed under the MIT [LICENSE](https://github.com/marqueslu/gostack-nodejs-concepts/blob/master/LICENSE)
 
 ---
 
